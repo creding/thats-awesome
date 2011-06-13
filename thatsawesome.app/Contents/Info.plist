@@ -30,13 +30,13 @@
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>2</integer>
+		<integer>-1</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
 		<real>333</real>
 		<key>savedFrame</key>
-		<string>95 78 602 597 0 0 1280 778 </string>
+		<string>107 193 602 582 0 0 1280 778 </string>
 		<key>selectedTabView</key>
 		<string>event log</string>
 	</dict>
