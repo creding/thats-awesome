@@ -1,0 +1,10 @@
+This app makes it possible to easily setup a local website on your mac. The app takes a domain name of your choice as input then sets up a virtual host on the apache 2 server.
+
+Open the app
+enter the domain you want
+select the folder for the web files to reside
+Click OK
+
+The app then writes the apache config, the host entry ( setting the domain to point to 127.0.0.1) , restarts apache, flushes the DNS cache, writes an index.html file with the domain name to the web directory, and finally opens the site in Safari
+
+that’s awesome!!!!!!
